@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Miecz Runiczny",
+      "price": 199.99,
+      "currency": "PLN",
+      "display_price": "199.99 zł"
+    },
+    {
+      "id": 2,
+      "name": "Eliksir Energii",
+      "price": 39.99,
+      "currency": "PLN",
+      "display_price": "39.99 zł"
+    },
+    {
+      "id": 3,
+      "name": "Peleryna Maskująca",
+      "price": 349,
+      "currency": "PLN",
+      "display_price": "349.00 zł"
+    },
+    {
+      "id": 4,
+      "name": "Mysz Gamingowa",
+      "price": 129,
+      "currency": "PLN",
+      "display_price": "129.00 zł"
+    },
+    {
+      "id": 5,
+      "name": "Klawiatura Mechaniczna",
+      "price": 289,
+      "currency": "PLN",
+      "display_price": "289.00 zł"
+    },
+    {
+      "id": 6,
+      "name": "Słuchawki Studyjne",
+      "price": 459,
+      "currency": "PLN",
+      "display_price": "459.00 zł"
+    },
+    {
+      "id": 7,
+      "name": "Notes QA",
+      "price": 24.99,
+      "currency": "PLN",
+      "display_price": "24.99 zł"
+    },
+    {
+      "id": 8,
+      "name": "Kubek Debuggera",
+      "price": 49,
+      "currency": "PLN",
+      "display_price": "49.00 zł"
+    }
+  ],
+  "count": 8
+}
